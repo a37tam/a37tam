@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello 👋 
+
+My name is **Alan Tam**. I am a Computer Science student at the University of Waterloo.
+
+<code>[Email](mailto:a37tam@uwaterloo.ca)</code> | <code>[LinkedIn](https://www.linkedin.com/in/a37tam/)</code>
+
+## Work Experience
+
+For almost two years, I have been working as a software developer in the [FUS lab](https://sunnybrook.ca/research/content/?page=sri-groups-fus) within Sunnybrook Health Sciences Centre to develop technology to carry out ultrasound treatments on the human body.
 
 <!--
 **a37tam/a37tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
