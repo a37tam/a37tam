@@ -2,6 +2,8 @@
 
 My name is **Alan Tam**. I am a Computer Science student at the University of Waterloo.
 
+**Looking for new graduate opportunities!**
+
 <code>[Email](mailto:a37tam@uwaterloo.ca)</code> | <code>[LinkedIn](https://www.linkedin.com/in/a37tam/)</code>
 
 <!--
