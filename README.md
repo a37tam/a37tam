@@ -4,7 +4,7 @@ My name is **Alan Tam**. I am a Computer Science student at the University of Wa
 
 **Looking for 2024 new grad opportunities!**
 
-<code>[Email](mailto:a37tam@uwaterloo.ca)</code> | <code>[LinkedIn](https://www.linkedin.com/in/a37tam/)</code>
+<code>[Email](mailto:alantam43@gmail.com)</code> | <code>[LinkedIn](https://www.linkedin.com/in/a37tam/)</code>
 
 <!--
 **a37tam/a37tam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
